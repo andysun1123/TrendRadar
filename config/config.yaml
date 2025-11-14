@@ -99,9 +99,23 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-  - id: "reddit"
-    name: "reddit"
-  - id: "twitter"
-    name: "twitter"
+  - id: "zaobao"
+    name: "联合早报"
+  - id: "mktnews"
+    name: "MKT新闻"
+  - id: "kaopu"
+    name: "靠谱新闻"
+  - id: "xueqiu"
+    name: "雪球"
+  - id: "github"
+    name: "GitHub"
+  - id: "hackernews"
+    name: "Hacker News"
+  - id: "solidot"
+    name: "Solidot"
+  - id: "v2ex"
+    name: "V2EX"
+
+
 
 
