@@ -109,12 +109,8 @@ platforms:
     name: "雪球"
   - id: "github"
     name: "GitHub"
-  - id: "hackernews"
-    name: "Hacker News"
   - id: "solidot"
     name: "Solidot"
-  - id: "v2ex"
-    name: "V2EX"
 
 
 
